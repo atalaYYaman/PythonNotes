@@ -32,7 +32,7 @@ print("\n------------\n")
 #   dışardan gelen sayıları listelere ekleme;
 #       eğer listede dışardan GELİRSE verilen listeye ekle
 #       eğer liste dışardan GELMEZSE default(varsayılan) olarak boş bir liste oluştur ona ekle.
-def f(a, L=[]):
+def f(a, L = []):
     L.append(a)
     return L
 
@@ -133,3 +133,65 @@ def example_function(*args, **kwargs):
         print(f"{key} = {value}")
 
 example_function(1, 2, 3, name="Alice", age=30, city="New York")
+
+print("\n------------\n")
+
+# RECURSİON (özyineleme)
+
+"""
+- Özyineleme, bir fonksiyonun kendi kendini çağırdığı bir programlama kavramıdır.
+- Özyineleme tipik olarak, tıpkı orijinal problem gibi olan ancak çözülmeye bir adım daha yakın olan alt problemlere
+ ayrıştırılabilen problemleri çözmek için kullanılır.
+ """
+# Bu fonksiyonda verilen pozitif sayıların 1'e  eşit olasıya kadar 1 azaltıldığı RECURSİON fonksiyondur.
+def f(n):
+    if n == 1:
+        return 1
+    else:
+        return f(n - 1)
+
+
+f(2)
+f(3)
+
+# Computation
+
+"""
+- Tüm hesaplamalar durumdan duruma geçmekten ibarettir...
+- Mevcut durum göz önüne alındığında, bir sonraki duruma hangi durumda geçeceğimizi söyleyen bir dizi kural vardır.
+"""
+
+# Piecewise Functions
+"""
+f(n) = 1 if n = 1
+n - 1 if n > 1
+f(4)
+4 - 1
+3
+"""
+
+# Yukarıdaki fonksiyonun pythonada gösterimi
+
+def ff(n):
+    if n == 1:
+        return 1
+    else:
+        return n - 1
+
+# Fancier Functions
+# İç içe fonksiyonlar kullandık g() fonksiyonu çağırdığımızda f() fonksiyonuda beraberinde geliyor.
+
+def fff(n):
+    return n + (n - 1)
+
+def g(n):
+    return n + fff(n - 1)
+
+g(4)
+
+# Iterative algorithms
+"""
+- Döngü yapıları (örn. while veya for döngüleri) doğal olarak yinelemeli algoritmalara yol açar.
+- Döngü boyunca her iterasyonda güncellenen bir dizi "durum değişkeninde" hesaplamayı yakalamak olarak 
+kavramsallaştırılabilir.
+"""
