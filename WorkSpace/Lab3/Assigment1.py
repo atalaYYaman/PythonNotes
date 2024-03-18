@@ -38,30 +38,5 @@ def filtering3(inventory):
 
 filtering3(inventory)
 
-print("\n--------------\n")
 
-list1 = [1, 3, 5, 6, 9]
-list2 = [2, 3, 4, 10, 1]
 
-def compare(list1, list2):
-    symbolList = []
-    for i in range(len(list1)):
-        if list1[i] == list2[i]:
-            symbolList.append("=")
-        elif list1[i] < list2[i]:
-            symbolList.append("<")
-        elif list1[i] > list2[i]:
-            symbolList.append(">")
-    print(symbolList)
-
-compare(list1, list2)
-
-print("\n--------------\n")
-
-names = ("ali","veli","ahmet","ayşe")
-ids = (1,2,3,4)
-grades = (85,95,90,70)
-
-holdStudent = tuple(zip(names, ids, grades))
-for name, id, grade in holdStudent:
-    print(f"İsim: {name} \n Öğrenci no: {id} \n Not: {grade}")
