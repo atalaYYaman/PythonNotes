@@ -55,3 +55,13 @@ def compare(list1, list2):
     print(symbolList)
 
 compare(list1, list2)
+
+print("\n--------------\n")
+
+names = ("ali","veli","ahmet","ayşe")
+ids = (1,2,3,4)
+grades = (85,95,90,70)
+
+holdStudent = tuple(zip(names, ids, grades))
+for name, id, grade in holdStudent:
+    print(f"İsim: {name} \n Öğrenci no: {id} \n Not: {grade}")

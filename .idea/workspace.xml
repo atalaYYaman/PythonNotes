@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Sayfa 14 e kadar çalışma yapıldı.">
+    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Lab 3; 2 assigment done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkSpace/Lecture3/More_on_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/Lecture3/More_on_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/Lab3/Assigment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/Lab3/Assigment1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "atalaYYaman"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e167728f-bc0b-4540-a25e-56e8bba14a25" />
+        <option name="url" value="https://github.com/atalaYYaman/PythonNotes.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -37,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Assigment1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ListComph.executor&quot;: &quot;Run&quot;,
     &quot;Python.ListWork.executor&quot;: &quot;Run&quot;,
     &quot;Python.More_on_Functions.executor&quot;: &quot;Run&quot;,
@@ -86,7 +101,9 @@
       <workItem from="1710263511299" duration="1970000" />
       <workItem from="1710339960672" duration="2324000" />
       <workItem from="1710575845116" duration="16693000" />
-      <workItem from="1710670784153" duration="3849000" />
+      <workItem from="1710670784153" duration="4209000" />
+      <workItem from="1710754367340" duration="5369000" />
+      <workItem from="1710763136155" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2 eksikleri tamamlandı.">
       <option name="closed" value="true" />
@@ -120,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710607658829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Sayfa 34 e kadar more on function çalışması yapıldı.">
+      <option name="closed" value="true" />
+      <created>1710675642142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675642142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lab 3; 2 assigment done.">
+      <option name="closed" value="true" />
+      <created>1710763356194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710763356194</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,11 +163,14 @@
     <MESSAGE value="Lab 2 eksikleri tamamlandı." />
     <MESSAGE value="Lab 2 yorum satırları eklendi. Bütün çözümler açıklandı." />
     <MESSAGE value="Sayfa 14 e kadar çalışma yapıldı." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayfa 14 e kadar çalışma yapıldı." />
+    <MESSAGE value="Sayfa 34 e kadar more on function çalışması yapıldı." />
+    <MESSAGE value="Lab 3; 2 assigment done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3; 2 assigment done." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListWork.coverage" NAME="ListWork Coverage Results" MODIFIED="1710152099795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListComph.coverage" NAME="ListComph Coverage Results" MODIFIED="1710579492396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab2" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment1.coverage" NAME="Assigment1 Coverage Results" MODIFIED="1710764034054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$vaaay.coverage" NAME="vaaay Coverage Results" MODIFIED="1709546551718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$More_on_Functions.coverage" NAME="More_on_Functions Coverage Results" MODIFIED="1710674883113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture3" />
   </component>
