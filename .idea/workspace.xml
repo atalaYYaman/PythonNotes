@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Homework1;all exerise and reading quesiton is done.">
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab4/Assigment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab4/Assigment2.py" afterDir="false" />
+    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Files of Lab4 Assignments are opened and some function added More_on_Functions.py file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkSpace/Lecture3/More_on_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/Lecture3/More_on_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/Lab4/Assigment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/Lab4/Assigment2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,7 @@
       <workItem from="1711009522386" duration="9094000" />
       <workItem from="1711149902458" duration="189000" />
       <workItem from="1711652337061" duration="3126000" />
-      <workItem from="1711710588076" duration="1527000" />
+      <workItem from="1711710588076" duration="2351000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2 eksikleri tamamlandı.">
       <option name="closed" value="true" />
@@ -221,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711021299217</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Files of Lab4 Assignments are opened and some function added More_on_Functions.py file.">
+      <option name="closed" value="true" />
+      <created>1711712219238</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711712219238</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +245,8 @@
     <MESSAGE value="Lab 3; Assigment 2 comment lines added." />
     <MESSAGE value="Lab 3; Assigment 3 comment lines added." />
     <MESSAGE value="Homework1;all exerise and reading quesiton is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework1;all exerise and reading quesiton is done." />
+    <MESSAGE value="Files of Lab4 Assignments are opened and some function added More_on_Functions.py file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Files of Lab4 Assignments are opened and some function added More_on_Functions.py file." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Coding_Exercises.coverage" NAME="Coding Exercises Coverage Results" MODIFIED="1711021049677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Homework1" />
@@ -251,7 +258,7 @@
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment1.coverage" NAME="Assigment1 Coverage Results" MODIFIED="1711710869453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab4" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListWork.coverage" NAME="ListWork Coverage Results" MODIFIED="1710152099795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment3.coverage" NAME="Assigment3 Coverage Results" MODIFIED="1710793823320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
-    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2.coverage" NAME="Assigment2 Coverage Results" MODIFIED="1710793716011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2.coverage" NAME="Assigment2 Coverage Results" MODIFIED="1711714302666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab4" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$nilay.coverage" NAME="nilay Coverage Results" MODIFIED="1710790405720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/disposable" />
   </component>
 </project>
