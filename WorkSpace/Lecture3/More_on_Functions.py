@@ -189,9 +189,21 @@ def g(n):
 
 g(4)
 
+print("\n------------\n")
+
 # Iterative algorithms
 """
 - Döngü yapıları (örn. while veya for döngüleri) doğal olarak yinelemeli algoritmalara yol açar.
 - Döngü boyunca her iterasyonda güncellenen bir dizi "durum değişkeninde" hesaplamayı yakalamak olarak 
 kavramsallaştırılabilir.
 """
+
+# Alttaki fonksiyonda ilk parametre toplanacak olan sayıyı ikincisi kaç defa toplanacağına karar veriyor.
+def iterMul(a, b):
+    result = 0
+    while b > 0:
+        result += a
+        b -= 1
+    return result
+
+print(iterMul(2, 3))
