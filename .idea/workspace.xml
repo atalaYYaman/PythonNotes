@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Homework2: Part2 Coding Exercise done.">
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lecture4/ObjectOrientedPrograming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lecture5/Modules and Packages.py" afterDir="false" />
+    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Homework4/Assigment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Homework4/Assigment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Homework4/Assigment3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lecture6/Regular_Expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lecture6/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lecture8/Pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/Lecture5/Modules and Packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/Lecture5/Modules_and_Packages.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,34 +63,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Assigment1.executor": "Run",
-    "Python.Assigment2.executor": "Run",
-    "Python.Assigment3.executor": "Run",
-    "Python.Assigment4.executor": "Run",
-    "Python.Coding Exercises.executor": "Run",
-    "Python.ListComph.executor": "Run",
-    "Python.ListWork.executor": "Run",
-    "Python.Modules and Packages.executor": "Run",
-    "Python.More_on_Functions.executor": "Run",
-    "Python.WhatIsRecursion.executor": "Run",
-    "Python.nilay.executor": "Run",
-    "Python.vaaay.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assigment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assigment2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assigment3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assigment4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Coding Exercises.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListComph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListWork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modules and Packages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.More_on_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Regular_Expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhatIsRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nilay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vaaay.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture6" />
+      <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture5" />
+      <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\TestTxt" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture2" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1" />
     </key>
@@ -132,7 +142,12 @@
       <workItem from="1713000230280" duration="6459000" />
       <workItem from="1714735302195" duration="29000" />
       <workItem from="1716122100011" duration="1191000" />
-      <workItem from="1716196988232" duration="8426000" />
+      <workItem from="1716196988232" duration="8722000" />
+      <workItem from="1716239497621" duration="1003000" />
+      <workItem from="1716293494939" duration="2035000" />
+      <workItem from="1716715888705" duration="3827000" />
+      <workItem from="1716805522238" duration="1262000" />
+      <workItem from="1717668136003" duration="4292000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2 eksikleri tamamlandı.">
       <option name="closed" value="true" />
@@ -270,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713006047593</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Homework2: Part2 Coding Exercise done.">
+      <option name="closed" value="true" />
+      <created>1716207879720</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716207879720</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,9 +318,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Homework2: Part2 Coding Exercise done." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment3.coverage" NAME="Assigment3 Coverage Results" MODIFIED="1710793823320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Modules_and_Packages.coverage" NAME="Modules and Packages Coverage Results" MODIFIED="1716205900374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture5" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment3.coverage" NAME="Assigment3 Coverage Results" MODIFIED="1710793823320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1716805808368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture8" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Coding_Exercises.coverage" NAME="Coding Exercises Coverage Results" MODIFIED="1711021049677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Homework1" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Regular_Expressions.coverage" NAME="Regular_Expressions Coverage Results" MODIFIED="1716294726010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture6" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2.coverage" NAME="Assigment2 Coverage Results" MODIFIED="1712674740822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab4" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListWork.coverage" NAME="ListWork Coverage Results" MODIFIED="1710152099795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListComph.coverage" NAME="ListComph Coverage Results" MODIFIED="1710579492396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab2" />
