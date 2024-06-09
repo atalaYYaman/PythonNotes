@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Homework4 done.">
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab9/Assigment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab9/Assigment2Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab9/Assigment2Task2.py" afterDir="false" />
+    <list default="true" id="f6f793f4-a942-4233-8cef-afd453152ca2" name="Changes" comment="Lab9 done.">
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab8/Assigment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab8/Assigment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkSpace/Lab8/population_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="SQL File" />
       </list>
     </option>
   </component>
@@ -90,11 +91,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lab8" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture6" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture5" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\TestTxt" />
       <recent name="E:\PycharmProjects\AdvancePythonWeek1\WorkSpace\Lecture2" />
-      <recent name="E:\PycharmProjects\AdvancePythonWeek1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -145,7 +146,7 @@
       <workItem from="1716715888705" duration="3827000" />
       <workItem from="1716805522238" duration="1262000" />
       <workItem from="1717668136003" duration="4555000" />
-      <workItem from="1717928144779" duration="6920000" />
+      <workItem from="1717928144779" duration="14972000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2 eksikleri tamamlandı.">
       <option name="closed" value="true" />
@@ -299,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717686375614</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lab9 done.">
+      <option name="closed" value="true" />
+      <created>1717938959944</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717938959944</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +331,8 @@
     <MESSAGE value="Homework2: Part1 Coding Exercise done." />
     <MESSAGE value="Homework2: Part2 Coding Exercise done." />
     <MESSAGE value="Homework4 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework4 done." />
+    <MESSAGE value="Lab9 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab9 done." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment3.coverage" NAME="Assigment3 Coverage Results" MODIFIED="1710793823320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
@@ -330,15 +340,15 @@
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1716805808368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture8" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2Task2.coverage" NAME="Assigment2Task2 Coverage Results" MODIFIED="1717937664740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab9" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Coding_Exercises.coverage" NAME="Coding Exercises Coverage Results" MODIFIED="1711021049677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Homework1" />
-    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2.coverage" NAME="Assigment2 Coverage Results" MODIFIED="1712674740822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab4" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Regular_Expressions.coverage" NAME="Regular_Expressions Coverage Results" MODIFIED="1716294726010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture6" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment2.coverage" NAME="Assigment2 Coverage Results" MODIFIED="1717967882652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab8" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListWork.coverage" NAME="ListWork Coverage Results" MODIFIED="1710152099795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$ListComph.coverage" NAME="ListComph Coverage Results" MODIFIED="1710579492396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab2" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$nilay.coverage" NAME="nilay Coverage Results" MODIFIED="1710790405720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/disposable" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$vaaay.coverage" NAME="vaaay Coverage Results" MODIFIED="1709546551718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$More_on_Functions.coverage" NAME="More_on_Functions Coverage Results" MODIFIED="1711652793112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lecture3" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment4.coverage" NAME="Assigment4 Coverage Results" MODIFIED="1710794216820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab3" />
-    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment1.coverage" NAME="Assigment1 Coverage Results" MODIFIED="1717931724298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab9" />
+    <SUITE FILE_PATH="coverage/AdvancePythonWeek1$Assigment1.coverage" NAME="Assigment1 Coverage Results" MODIFIED="1717941068730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Lab8" />
     <SUITE FILE_PATH="coverage/AdvancePythonWeek1$WhatIsRecursion.coverage" NAME="WhatIsRecursion Coverage Results" MODIFIED="1711014039675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkSpace/Homework1" />
   </component>
 </project>
